@@ -4,6 +4,7 @@
 % open -a Simulator
 ```
 新建和运行项目：
+```
 % flutter create hello_flutter
 % cd hello_flutter
 % flutter run
